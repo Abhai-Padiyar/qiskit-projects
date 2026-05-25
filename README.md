@@ -1,2 +1,2 @@
 # qiskit-projects
-tinkering with qiskit
+tinkering with qiskit through various projects
